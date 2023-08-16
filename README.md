@@ -1,4 +1,4 @@
-### Hi there Coders👋 
+### Hi There Coders👋 
 
 
 <h3 align="left">Aspiring Android Developer and Informatics Engineering Student</h3>
