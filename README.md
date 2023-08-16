@@ -1,5 +1,5 @@
-### Hi There Coders👋 
 
+<h1 align="left">Hi there coders 👋, I'm Bayu Afriyadi</h1>
 
 <h3 align="left">Aspiring Android Developer and Informatics Engineering Student</h3>
 
