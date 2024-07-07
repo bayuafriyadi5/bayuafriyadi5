@@ -9,7 +9,7 @@
 - Pronouns `he/him/his`
 - `Informatics Engineering Student` at `Indonesian Computer University`
 - Experienced with `Kotlin`, `Java`
-- Also writes using `PHP`
+- Also writes using `PHP` and `JavaScript`
 
 ### Reach me
 
