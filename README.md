@@ -6,10 +6,10 @@
 </p>
 
 - 🎓 Fresh graduate `Informatics Engineering` at `UNIKOM`
-- 🧪 QA Engineer at **Yesdok** (healthtech) — UI automation web & mobile
-- 🚀 PM + QA at an early-stage startup — Vila Booking, LiveKit B2B, AI Trader
+- 🧪 QA Engineer at **Yesdok** (healthtech) UI automation web & mobile
+- 🚀 PM + QA at an early-stage startup Vila Booking, LiveKit B2B, AI Trader
 - 🛠️ Building automation frameworks with `Playwright`, `Appium`, `GitHub Actions`
-- 🏆 Bangkit Academy 2023 — Mobile Development, Top 65 of 500
+- 🏆 Bangkit Academy 2023 Mobile Development, Top 65 of 500
 - 📍 Bogor, West Java, Indonesia
 
 ---
@@ -51,9 +51,6 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bayuafriyadi5&layout=compact&theme=dark&hide_border=true&langs_count=8" />
-</p>
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bayuafriyadi5&theme=dark" alt="streak stats" />
 </p>
