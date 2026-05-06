@@ -52,7 +52,7 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bayuafriyadi5&show_icons=true&locale=en&layout=compact&theme=dark" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bayuafriyadi5&layout=compact&theme=dark&hide_border=true&langs_count=8" />
 </p>
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bayuafriyadi5&theme=dark" alt="streak stats" />
