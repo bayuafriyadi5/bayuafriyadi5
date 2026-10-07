@@ -7,7 +7,7 @@
 
 - 🎓 Fresh graduate `Informatics Engineering` at `UNIKOM`
 - 🧪 QA Engineer at **Yesdok** (healthtech) UI automation web & mobile
-- 🚀 PM + QA at an early-stage startup Vila Booking, LiveKit B2B, AI Trader
+- 🚀 PM + QA at an early-stage startup Vila Booking, LiveKit B2B
 - 🛠️ Building automation frameworks with `Playwright`, `Appium`, `GitHub Actions`
 - 🏆 Bangkit Academy 2023 Mobile Development, Top 65 of 500
 - 📍 Bogor, West Java, Indonesia
