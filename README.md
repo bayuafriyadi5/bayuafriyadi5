@@ -1,5 +1,5 @@
 <h1 align="left">Hi there 👋, I'm Bayu Afriyadi</h1>
-<h3 align="left">QA Engineer · PM · Fresh Graduate Informatics Engineering</h3>
+<h3 align="left">QA Engineer · PM </h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=bayuafriyadi5&label=Profile%20views&color=0e75b6&style=flat" alt="bayuafriyadi5" />
